@@ -6,7 +6,7 @@
 
 <!-- ========================= TYPING ANIMATION ========================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=B.Tech+CSE+(AI%2FML)+Student;Passionate+About+Artificial+Intelligence;Building+Machine+Learning+Projects;Learning+Deep+Learning+%26+Generative+AI;Future+AI%2FML+Engineer+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&lines=B.Tech+CSE+(AI%2FML)+Student;Passionate+About+Artificial+Intelligence;Building+Machine+Learning+Projects;Learning+Deep+Learning+%26+Generative+AI;Future+AI%2FML+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 <!-- ========================= TAGLINE ========================= -->
 
