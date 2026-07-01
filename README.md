@@ -95,6 +95,9 @@ Artificial Intelligence
 Git & GitHub
 Student Journey
 ```
+
+---
+
 # 💻 Tech Stack
 
 <table>
@@ -173,6 +176,7 @@ Student Journey
 </table>
 
 ---
+
 # 📊 GitHub Analytics
 
 <div align="center">
