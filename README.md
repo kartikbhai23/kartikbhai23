@@ -1,47 +1,65 @@
+<!-- ========================= HEADER ========================= -->
+
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:2563eb,100:22c55e&text=Hi,%20I'm%20Kartik%20Pandey&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=46&desc=Python%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning&descAlign=50&descAlignY=58&descSize=18"/>
 </p>
 
-<div align="center">
+<!-- ========================= TYPING ANIMATION ========================= -->
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer;Deep+Learning+Learner;Building+Real+World+AI+Projects;Always+Learning+Something+New+🚀"/>
+</p>
 
-![](https://komarev.com/ghpvc/?username=kartikbhai23&style=for-the-badge&color=2563eb)
+<!-- ========================= TAGLINE ========================= -->
 
-<img src="https://img.shields.io/badge/🎯_Focus-AI%20%26%20Machine%20Learning-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🚀_Currently-Studying%20CNN%20-22C55E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📍_Location-India-F97316?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🎓_Status-B.Tech%20Student-6B7280?style=for-the-badge"/>
-
-</div>
-
-### 🎓 Student • AI & Machine Learning Enthusiast • Future AI Engineer
-
+<h3 align="center">
+🎓 Student • AI & Machine Learning Enthusiast • Future AI Engineer
+</h3>
 
 <br>
 
-<a href="https://github.com/kartikbhai23">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<!-- ========================= PROFILE VIEWS ========================= -->
 
-<a href="https://www.linkedin.com/in/kartik-pandey2324/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kartikbhai23&style=for-the-badge&color=2563eb"/>
+</p>
 
-<a href="https://www.instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+<!-- ========================= INFO BADGES ========================= -->
 
-<a href="https://kartikbhai23.github.io/Kartik-Pandey/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-</a>
+<p align="center">
+  <img src="https://img.shields.io/badge/🎯_Focus-AI_&_Machine_Learning-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🚀_Learningg-Deep_Learning-22C55E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📍_Location-India-F97316?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎓_Status-B.Tech_Student-6B7280?style=for-the-badge"/>
+</p>
 
-<a href="mailto:kartikpandey.offical@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br>
 
-</div>
+<!-- ========================= SOCIAL LINKS ========================= -->
 
+<p align="center">
+  <a href="https://github.com/kartikbhai23">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/kartik-pandey2324/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://kartikbhai23.github.io/Kartik-Pandey/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+
+  <a href="mailto:kartikpandey.offical@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<hr>
 ---
 
 # 🚀 About Me
