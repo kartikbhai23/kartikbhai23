@@ -21,13 +21,13 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/🎯_Focus-AI_&_ML-2563EB?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/🎯_Focus-AI_&_Machine_Learning-2563EB?style=for-the-badge&labelColor=0F172A"/>
 
-<img src="https://img.shields.io/badge/🚀_Building-AI_Projects-06B6D4?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/🧠_Learning-Deep_Learning-8B5CF6?style=for-the-badge&labelColor=0F172A"/>
 
-<img src="https://img.shields.io/badge/📚_Learning-Deep_Learning-8B5CF6?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/📍_Based_In-India-F97316?style=for-the-badge&labelColor=0F172A"/>
 
-<img src="https://img.shields.io/badge/🇮🇳_Based_In-India-14B8A6?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/🎓_Status-B.Tech_Student-64748B?style=for-the-badge&labelColor=0F172A"/>
 
 </p>
 <br>
