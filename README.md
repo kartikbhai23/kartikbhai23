@@ -5,9 +5,8 @@
 </p>
 
 <!-- ========================= TYPING ANIMATION ========================= -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer;Deep+Learning+Learner;Building+Real+World+AI+Projects;Always+Learning+Something+New+🚀"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer;Deep+Learning+Learner" alt="Typing SVG">
 </p>
 
 <!-- ========================= TAGLINE ========================= -->
