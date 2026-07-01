@@ -20,10 +20,15 @@
 <!-- ========================= INFO BADGES ========================= -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎯_Focus-AI_&_Machine_Learning-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🚀_Learningg-Deep_Learning-22C55E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📍_Location-India-F97316?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🎓_Status-B.Tech_Student-6B7280?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🎯_Focus-AI_&_Machine_Learning-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🧠_Learning-Deep_Learning-06B6D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/📍_Location-India-22C55E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🎓_Status-B.Tech_Student-6366F1?style=for-the-badge"/>
+
 </p>
 
 <br>
