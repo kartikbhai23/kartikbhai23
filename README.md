@@ -1,7 +1,8 @@
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:2563eb,100:22c55e&text=Hi,%20I'm%20Kartik%20Pandey&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=46&desc=Python%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning&descAlign=50&descAlignY=58&descSize=18"/>
+</p>
+
 <div align="center">
-
-
-# Hi 👋 I'm Kartik Pandey
 
 ### 🎓 Student • AI & Machine Learning Enthusiast • Future AI Engineer
 
@@ -208,3 +209,7 @@ Student Journey
 <img src="https://komarev.com/ghpvc/?username=kartikbhai23&style=for-the-badge&color=blue"/>
 
 </div>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:22c55e,50:2563eb,100:0f172a"/>
+</p>
