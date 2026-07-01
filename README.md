@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://img.notionusercontent.com/ext/https%3A%2F%2Fcdna.artstation.com%2Fp%2Fassets%2Fimages%2Fimages%2F055%2F086%2F844%2Foriginal%2Fgun-sirichote-night-workflow3-animated3-edit.gif%3F1666093203/size/?exp=1782923884&sig=mZs3VVcapV2WnRI15VszwFnlj-dN5e7V3x8JVnnGeNQ&imgBuildSrc=presignImageUrl&id=363b10f9-cc60-8078-873b-d9416bce43e2&table=block&mtd=so" width="100%" />
 
 # Hi 👋 I'm Kartik Pandey
 
