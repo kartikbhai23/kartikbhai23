@@ -178,13 +178,13 @@ Student Journey
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kartikbhai23&theme=github-dark-blue&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=kartikbhai23&theme=github-dark-blue&hide_border=true&border_radius=10"/>
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=kartikbhai23&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikbhai23&theme=github_dark"/>
 
-<br><br>
+---
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikbhai23&theme=github-dark&hide_border=true"/>
 
@@ -229,15 +229,6 @@ Student Journey
 ### If you like my work, consider giving a ⭐ to my repositories.
 
 </div>
-
-
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kartikbhai23/kartikbhai23/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:22c55e,50:2563eb,100:0f172a"/>
