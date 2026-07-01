@@ -6,16 +6,10 @@
 
 <!-- ========================= TYPING ANIMATION ========================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer;Deep+Learning+Learner" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=B.Tech+CSE+(AI%2FML)+Student;Passionate+About+Artificial+Intelligence;Building+Machine+Learning+Projects;Learning+Deep+Learning+%26+Generative+AI;Future+AI%2FML+Engineer+%F0%9F%9A%80" />
 </p>
-
 <!-- ========================= TAGLINE ========================= -->
 
-<h3 align="center">
-🎓 Student • AI & Machine Learning Enthusiast • Future AI Engineer
-</h3>
-
-<br>
 
 <!-- ========================= PROFILE VIEWS ========================= -->
 
@@ -119,7 +113,7 @@ Student Journey
 
 ## AI / ML
 
-<p align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
