@@ -60,7 +60,6 @@
 
 </p>
 <hr>
----
 
 # 🚀 About Me
 
@@ -178,19 +177,9 @@ Student Journey
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=kartikbhai23&theme=github-dark-blue&hide_border=true&border_radius=10"/>
-
-<br><br>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikbhai23&theme=github_dark"/>
-
----
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikbhai23&theme=github-dark&hide_border=true"/>
 
 </div>
-
----
 ---
 # 📬 Get in Touch
 
@@ -218,8 +207,6 @@ Student Journey
 
 </div>
 
----
----
 ---
 
 <div align="center">
