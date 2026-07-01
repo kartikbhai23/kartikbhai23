@@ -172,34 +172,25 @@ Student Journey
 </tr>
 
 </table>
-<h1 align="center">📊 GitHub Analytics</h1>
-
-<p align="center">
-  <img height="180em"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kartikbhai23&show_icons=true&theme=github_dark&hide_border=true"/>
-
-  <img height="180em"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kartikbhai23&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kartikbhai23&theme=github-dark-blue&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikbhai23&theme=github-dark&hide_border=true"/>
-</p>
 
 ---
-
-# 📊 Contribution Graph
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikbhai23&theme=tokyo-night&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=kartikbhai23&theme=github-dark-blue&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=kartikbhai23&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikbhai23&theme=github-dark&hide_border=true"/>
 
 </div>
 
+---
 ---
 # 📬 Get in Touch
 
