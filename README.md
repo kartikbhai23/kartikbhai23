@@ -233,8 +233,6 @@ Student Journey
 
 ### If you like my work, consider giving a ⭐ to my repositories.
 
-<img src="https://komarev.com/ghpvc/?username=kartikbhai23&style=for-the-badge&color=blue"/>
-
 </div>
 
 
@@ -245,15 +243,6 @@ Student Journey
   <img src="https://raw.githubusercontent.com/kartikbhai23/kartikbhai23/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-If you want the light theme too:
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kartikbhai23/kartikbhai23/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kartikbhai23/kartikbhai23/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kartikbhai23/kartikbhai23/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:22c55e,50:2563eb,100:0f172a"/>
