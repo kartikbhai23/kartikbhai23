@@ -176,7 +176,6 @@ Student Journey
 </table>
 
 ---
-
 # 📊 GitHub Analytics
 
 <div align="center">
