@@ -63,10 +63,6 @@
 
 <img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-# 🚀 About Me
-
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
 I'm a **B.Tech CSE (AI/ML) student** passionate about building intelligent systems using **Python, Machine Learning, and Deep Learning**. I enjoy transforming ideas into practical AI projects, continuously learning modern technologies, and solving real-world problems through code.
 
 - 🎓 B.Tech CSE (AI/ML) Student
@@ -99,67 +95,43 @@ Student Journey
 ```
 # 🛠 Tech Stack
 
-<table align="center">
-<tr>
-<td valign="top" width="25%">
-
-### 💻 Languages
+## 💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
 </p>
 
-</td>
+---
 
-<td valign="top" width="25%">
-
-### 🤖 AI / ML
+## 🤖 AI / ML
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /><br><br>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/><br>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/><br>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/><br>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
-
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
-
-</td>
-
-<td valign="top" width="25%">
-
-### 📊 Data
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python" /><br><br>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/><br>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/><br>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
-
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
 </p>
 
-</td>
+---
 
-<td valign="top" width="25%">
-
-### 🛠 Tools
+## 📊 Data
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,jupyter" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 </p>
 
-</td>
-</tr>
-</table>
+---
 
+## 🛠 Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,jupyter" />
+</p>
+
+---
 ---
 
 # 📈 GitHub Analytics
@@ -199,31 +171,33 @@ Student Journey
 </div>
 
 ---
-# 📫 Let's Connect
+# 📬 Get in Touch
 
-<p align="center">
-If you'd like to collaborate on AI/ML projects, discuss technology, or simply connect, feel free to reach out.
+<div align="center">
 
-<br><br>
+> *Interested in AI, Machine Learning, or building something impactful together? Let's connect.*
+
+<br>
 
 <a href="https://github.com/kartikbhai23">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 <a href="https://www.linkedin.com/in/kartik-pandey2324/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:kartikpandey.offical@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 <a href="https://kartikbhai23.github.io/Kartik-Pandey/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge"/>
 </a>
 
-</p>
+</div>
 
+---
 ---
 ---
 
