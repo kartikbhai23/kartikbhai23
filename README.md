@@ -34,28 +34,31 @@
 
 <!-- ========================= SOCIAL LINKS ========================= -->
 
+# 🌐 Socials
+
 <p align="center">
-  <a href="https://github.com/kartikbhai23">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 
-  <a href="https://www.linkedin.com/in/kartik-pandey2324/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/kartik-pandey2324/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="https://www.instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+<a href="https://kartikbhai23.github.io/Kartik-Pandey/">
+<img src="https://img.shields.io/badge/My%20Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
-  <a href="https://kartikbhai23.github.io/Kartik-Pandey/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
+<a href="https://www.instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-  <a href="mailto:kartikpandey.offical@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://github.com/kartikbhai23">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:kartikpandey.offical@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
-
 <hr>
 ---
 
@@ -93,47 +96,82 @@ Artificial Intelligence
 Git & GitHub
 Student Journey
 ```
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
-## 💻 Languages
+<table>
+<tr>
+<th width="28%">Category</th>
+<th>Technologies</th>
+</tr>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
-</p>
+<tr>
+<td><strong>💻 Languages</strong></td>
+<td>
 
----
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
-## 🤖 AI / ML
+</td>
+</tr>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
+<tr>
+<td><strong>🤖 AI / Machine Learning</strong></td>
+<td>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
-</p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
----
+</td>
+</tr>
 
-## 📊 Data
+<tr>
+<td><strong>📊 Data Science</strong></td>
+<td>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-</p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
 
----
+</td>
+</tr>
 
-## 🛠 Tools
+<tr>
+<td><strong>📈 Data Visualization</strong></td>
+<td>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,jupyter" />
-</p>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 
----
----
+</td>
+</tr>
 
+<tr>
+<td><strong>🛠 Development Tools</strong></td>
+<td>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda"/>
+
+</td>
+</tr>
+
+<tr>
+<td><strong>🚀 Currently Learning</strong></td>
+<td>
+
+<img src="https://img.shields.io/badge/Deep_Learning-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative_AI-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-0EA5E9?style=for-the-badge"/>
+
+</td>
+</tr>
+
+</table>
 # 📈 GitHub Analytics
 
 <div align="center">
