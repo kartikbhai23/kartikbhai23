@@ -4,9 +4,19 @@
 
 <div align="center">
 
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=kartikbhai23&style=for-the-badge&color=2563eb)
+
+<img src="https://img.shields.io/badge/🎯_Focus-AI%20%26%20Machine%20Learning-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_Currently-Building%20Python%20Projects-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📍_Location-India-F97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎓_Status-B.Tech%20Student-6B7280?style=for-the-badge"/>
+
+</div>
+
 ### 🎓 Student • AI & Machine Learning Enthusiast • Future AI Engineer
 
-### *"Chaliya suru karta hai...!"*
 
 <br>
 
