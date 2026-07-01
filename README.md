@@ -1,64 +1,228 @@
 <!-- ========================= HEADER ========================= -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,45:2563eb,100:22c55e&text=Kartik%20Pandey&fontAlign=50&fontAlignY=45&fontColor=ffffff&fontSize=42&desc=B.Tech%20CSE%20(AI/ML)%20%7C%20Building%20real%20ML%20projects&descAlign=50&descAlignY=65&descSize=18"/>
-</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kartik-pandey2324/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://kartikbhai23.github.io/Kartik-Pandey/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=googlechrome&logoColor=white"/></a>
-  <a href="mailto:kartikpandey.offical@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:2563eb,100:22c55e&text=Hi,%20I'm%20Kartik%20Pandey&fontAlign=50&fontAlignY=50&fontColor=ffffff&fontSize=46"/>
 </p>
+
+<!-- ========================= TYPING ANIMATION ========================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&lines=B.Tech+CSE+(AI%2FML)+Student;Passionate+About+Artificial+Intelligence;Building+Machine+Learning+Projects;Learning+Deep+Learning+%26+Generative+AI;Future+AI%2FML+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+<!-- ========================= TAGLINE ========================= -->
+
+
+<!-- ========================= PROFILE VIEWS ========================= -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kartikbhai23&style=for-the-badge&color=2563eb"/>
+</p>
+
+<!-- ========================= INFO BADGES ========================= -->
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🎯_Focus-AI_&_Machine_Learning-2563EB?style=for-the-badge&labelColor=0F172A"/>
+
+<img src="https://img.shields.io/badge/🧠_Learning-Deep_Learning-8B5CF6?style=for-the-badge&labelColor=0F172A"/>
+
+<img src="https://img.shields.io/badge/📍_Based_In-India-F97316?style=for-the-badge&labelColor=0F172A"/>
+
+<img src="https://img.shields.io/badge/🎓_Status-B.Tech_Student-64748B?style=for-the-badge&labelColor=0F172A"/>
+
+</p>
+<br>
+
+<!-- ========================= SOCIAL LINKS ========================= -->
+
+# 🌐 Socials
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/kartik-pandey2324/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://kartikbhai23.github.io/Kartik-Pandey/">
+<img src="https://img.shields.io/badge/My%20Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kartikbhai23">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:kartikpandey.offical@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+<hr>
+
+# 🚀 About Me
+
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+I'm a **B.Tech CSE (AI/ML) student** passionate about building intelligent systems using **Python, Machine Learning, and Deep Learning**. I enjoy transforming ideas into practical AI projects, continuously learning modern technologies, and solving real-world problems through code.
+
+- 🎓 B.Tech CSE (AI/ML) Student
+- 🐍 Python Enthusiast
+- 🤖 Exploring Machine Learning & Deep Learning
+- 🚀 Building Real-World AI Projects
+- 🎯 Aspiring AI/ML Engineer
+---
+
+# 🌱 Currently Working On
+
+- 🐍 Advanced Python
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 📊 Data Analysis
+- 🚀 AI Projects
+- 📖 Continuous Learning
+
+---
+
+# 💬 Ask Me About
+
+```text
+Python
+Machine Learning
+Deep Learning
+Artificial Intelligence
+Git & GitHub
+Student Journey
+```
+
+---
+
+# 💻 Tech Stack
+
+<table>
+<tr>
+<th width="28%">Category</th>
+<th>Technologies</th>
+</tr>
+
+<tr>
+<td><strong>💻 Languages</strong></td>
+<td>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+</td>
+</tr>
+
+<tr>
+<td><strong>🤖 AI / Machine Learning</strong></td>
+<td>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+</td>
+</tr>
+
+<tr>
+<td><strong>📊 Data Science</strong></td>
+<td>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+
+</td>
+</tr>
+
+<tr>
+<td><strong>📈 Data Visualization</strong></td>
+<td>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+</td>
+</tr>
+
+<tr>
+<td><strong>🛠 Development Tools</strong></td>
+<td>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda"/>
+
+</td>
+</tr>
+
+<tr>
+<td><strong>🚀 Currently Learning</strong></td>
+<td>
+
+<img src="https://img.shields.io/badge/Deep_Learning-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative_AI-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-0EA5E9?style=for-the-badge"/>
+
+</td>
+</tr>
+
+</table>
+
+---
+
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikbhai23&theme=github-dark&hide_border=true"/>
+
+</div>
+---
+
+# 📬 Get in Touch
+
+<div align="center">
+
+> *Interested in AI, Machine Learning, or building something impactful together? Let's connect.*
 
 <br>
 
-## About
+<a href="https://github.com/kartikbhai23">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
 
-B.Tech CSE (AI/ML) student building and training real machine learning models — not just following tutorials.
-Currently working on: **`[NAME YOUR CURRENT PROJECT HERE]`**
+<a href="https://www.linkedin.com/in/kartik-pandey2324/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
-<br>
+<a href="mailto:kartikpandey.offical@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
-## Projects
+<a href="https://kartikbhai23.github.io/Kartik-Pandey/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge"/>
+</a>
 
-| Project | What it does | Stack | Link |
-|---|---|---|---|
-| **github-bot** | `[ADD: what does this bot actually do? e.g. "Automates X on GitHub via the API"]` | Python | [repo](https://github.com/kartikbhai23/github-bot) |
-| **DSA Practice** | Data structures & algorithms implementations (arrays, sorting, searching, etc.) covered in coursework | C | [repo](https://github.com/kartikbhai23/Dsa_Practice) |
-| **`[Rename "PROJECT"]`** | `[ADD: one sentence — what does this C project actually solve?]` | C | [repo](https://github.com/kartikbhai23/PROJECT) |
+</div>
 
-<br>
+---
 
-## Tech Stack
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
-  <!-- Add TensorFlow / PyTorch / scikit-learn back once a real project uses them -->
-</p>
+### ⭐ Thanks for visiting my profile!
 
-**Currently learning:** Deep Learning, Generative AI, LLMs
+### If you like my work, consider giving a ⭐ to my repositories.
 
-<br>
-
-## GitHub Stats
+</div>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kartikbhai23&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikbhai23&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<br>
-
-## Connect
-
-<p align="center">
-  <a href="https://github.com/kartikbhai23"><img src="https://skillicons.dev/icons?i=github"/></a>
-  <a href="https://www.linkedin.com/in/kartik-pandey2324/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href="mailto:kartikpandey.offical@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:22c55e,50:2563eb,100:0f172a"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:22c55e,50:2563eb,100:0f172a"/>
 </p>
