@@ -30,6 +30,7 @@
 <img src="https://img.shields.io/badge/🎓_Status-B.Tech_Student-64748B?style=for-the-badge&labelColor=0F172A"/>
 
 </p>
+
 <br>
 
 <!-- ========================= SOCIAL LINKS ========================= -->
